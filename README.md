@@ -1,5 +1,6 @@
 # gestion_de_cobranza
 # ¿Como ejecutar?
+Primero se debe tener la base de datos levantada en MySQL: https://github.com/AlgorithmHappy/bd_gestion_de_cobranza
 ## Eclipse
 Descargar como si fuera un Zip o con git, importarlo desde eclipse como un proyecto maven, ejecutarlo como aplicacion con la clase "GestionDeCobranzaApplication.java".
 ## Visual studio code
